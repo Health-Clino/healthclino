@@ -5,7 +5,7 @@
 
 HealthClino provides fast, secure, and affordable online doctor consultations across Spain. Patients can consult licensed doctors from the comfort of their homes.
 
-### 🌐 Official Website
+### 🌐 Official Websites
 
 https://healthclino.es
 
