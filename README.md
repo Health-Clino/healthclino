@@ -8,7 +8,14 @@ HealthClino provides fast, secure, and affordable online doctor consultations ac
 ### 🌐 Official Website
 
 https://healthclino.es
+
 https://healthclino.com
+
+https://www.healthclino.com/
+
+https://www.healthclino.es/
+
+https://www.healthclino.es
 
 ### Our Services
 
@@ -35,7 +42,8 @@ Online Doctor Spain, Telemedicine Spain, Online GP Spain, Prescription Refill Sp
 
 ### Follow Us
 
-- Website: https://healthclino.es
+- Spain Website: https://www.healthclino.es
+- All Web Links: https://www.healthclino.com 
 - Facebook: https://facebook.com/healthclino
 - Instagram: https://instagram.com/healthclino
 - LinkedIn: https://linkedin.com/company/healthclino
